@@ -1,3 +1,3 @@
 # OCEAN_PREDICTION
-prediction of OCEAN personality traits from video input using GRU and encoders
+prediction of OCEAN personality traits from video input using GRU and encoders <br>
   dataset- ChaLearn LAP First Impressions Dataset
